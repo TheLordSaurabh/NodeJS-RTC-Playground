@@ -17,7 +17,6 @@ This repository serves as a comprehensive practice module for exploring and impl
 
    ```bash
    git clone https://github.com/TheLordSaurabh/NodeJS-RTC-Playground.git
-   .git
    cd NodeJS-RTC-Playground
    ```
 
